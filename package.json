@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.4",
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "start-watch": "nodemon server"
+  },
+  "name": "nosql-api",
+  "description": "API build -- MongoDB -- Challenge 18",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrenner0211/nosql-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrenner0211/nosql-api/issues"
+  },
+  "homepage": "https://github.com/nrenner0211/nosql-api#readme",
+  "keywords": []
+}
