@@ -9,6 +9,7 @@ API build -- MongoDB -- Challenge 18
   - [About](#about)
   - [Installation](#installation)
   - [Links](#links)
+  - [Walkthrough](#walkthrough)
   - [Contact Me](#contact-me)
 
 ## About
@@ -20,6 +21,10 @@ To run this application, clone repository and run `npm i` to install dependencie
 ## Links
 
 [Repository](https://github.com/nrenner0211/nosql-api)
+
+## Walkthrough
+
+!(Coming soon!)
 
 ## Contact Me
 
